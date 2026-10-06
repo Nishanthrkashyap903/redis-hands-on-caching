@@ -1,0 +1,1 @@
+while true; do docker exec -i caching-redis redis-cli TTL m2:lazy; sleep 1; done

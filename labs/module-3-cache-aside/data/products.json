@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "sku": "SKU-TEE-001",
+      "name": "Organic Cotton T-Shirt",
+      "category": "apparel",
+      "price_cents": 2499,
+      "currency": "USD",
+      "in_stock": true
+    },
+    {
+      "id": 102,
+      "sku": "SKU-MUG-042",
+      "name": "Ceramic Camp Mug",
+      "category": "home",
+      "price_cents": 1899,
+      "currency": "USD",
+      "in_stock": true
+    },
+    {
+      "id": 103,
+      "sku": "SKU-BK-778",
+      "name": "Redis Patterns Handbook",
+      "category": "books",
+      "price_cents": 4599,
+      "currency": "USD",
+      "in_stock": false
+    },
+    {
+      "id": 104,
+      "sku": "SKU-HD-210",
+      "name": "Wireless Headphones",
+      "category": "electronics",
+      "price_cents": 12999,
+      "currency": "USD",
+      "in_stock": true
+    },
+    {
+      "id": 105,
+      "sku": "SKU-SNCK-015",
+      "name": "Trail Mix Variety Pack",
+      "category": "grocery",
+      "price_cents": 899,
+      "currency": "USD",
+      "in_stock": true
+    }
+  ]
+}

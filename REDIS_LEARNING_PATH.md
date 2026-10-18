@@ -269,7 +269,8 @@ Caching/
 - [x] Module 1 — data types labs; checkpoint `notes/module-1-checkpoint.md`
 - [x] Module 2 — TTL & memory; checkpoint `notes/module-2-checkpoint.md`
 - [x] Module 3 — cache-aside; checkpoint `notes/module-3-checkpoint.md`
+- [x] Module 4 — write patterns; checkpoint `notes/module-4-checkpoint.md`
 
 ## Next step
 
-Say **Start Module 4** for write patterns (invalidate vs update cache).
+**Module 5** — atomicity, transactions, rate limiting (`REDIS_LEARNING_PATH.md`).

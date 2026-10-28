@@ -270,7 +270,8 @@ Caching/
 - [x] Module 2 — TTL & memory; checkpoint `notes/module-2-checkpoint.md`
 - [x] Module 3 — cache-aside; checkpoint `notes/module-3-checkpoint.md`
 - [x] Module 4 — write patterns; checkpoint `notes/module-4-checkpoint.md`
+- [x] Module 5 — atomicity & rate limiting; checkpoint `notes/module-5-checkpoint.md`
 
 ## Next step
 
-**Module 5** — atomicity, transactions, rate limiting (`REDIS_LEARNING_PATH.md`).
+**Module 6** — pub/sub, streams intro (`REDIS_LEARNING_PATH.md`).
